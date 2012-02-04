@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneAsteroids", "PhoneAsteroids\PhoneAsteroids\PhoneAsteroids.csproj", "{65A21E85-B980-44F0-A52E-714D95A5BBF9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PhoneAsteroidsContent", "PhoneAsteroids\PhoneAsteroidsContent\PhoneAsteroidsContent.contentproj", "{49038C49-C323-4D3D-8248-C916D9BC5914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Any CPU = Release|Any CPU
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65A21E85-B980-44F0-A52E-714D95A5BBF9}.Debug|Any CPU.ActiveCfg = Debug|Windows Phone
+		{65A21E85-B980-44F0-A52E-714D95A5BBF9}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{65A21E85-B980-44F0-A52E-714D95A5BBF9}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{65A21E85-B980-44F0-A52E-714D95A5BBF9}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{65A21E85-B980-44F0-A52E-714D95A5BBF9}.Release|Any CPU.ActiveCfg = Release|Windows Phone
+		{65A21E85-B980-44F0-A52E-714D95A5BBF9}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{65A21E85-B980-44F0-A52E-714D95A5BBF9}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{65A21E85-B980-44F0-A52E-714D95A5BBF9}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{49038C49-C323-4D3D-8248-C916D9BC5914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49038C49-C323-4D3D-8248-C916D9BC5914}.Debug|Windows Phone.ActiveCfg = Debug|Any CPU
+		{49038C49-C323-4D3D-8248-C916D9BC5914}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{49038C49-C323-4D3D-8248-C916D9BC5914}.Release|Windows Phone.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

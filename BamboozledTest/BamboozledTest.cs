@@ -12,13 +12,6 @@ namespace BamboozledTest
     [TestClass]
     public class BamboozledTest
     {
-        Bamboozled.Bamboozled test = new Bamboozled.Bamboozled();
-        [TestMethod]
-        public void getKeyboardInputTest()
-        {
-            KeyboardState initalKeyboardState = Keyboard.GetState(); ;
-            KeyboardState bamboozledkeyboardState = test.getKeyboardInput();
-            Assert.IsTrue(initalKeyboardState == bamboozledkeyboardState);
-        }
+
     }
 }

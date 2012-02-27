@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\temp_char.xnb</Output>
-      <Time>2012-02-24T00:43:44.0737057-06:00</Time>
+      <Output>C:\Users\Clay\Team7\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\temp_char.xnb</Output>
+      <Time>2012-02-26T20:43:37.379-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -16,39 +16,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\Bamboozled\BamboozledContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\Bamboozled\Bamboozled\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\Bamboozled\BamboozledContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Clay\Team7\Team7\Bamboozled\BamboozledContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Clay\Team7\Team7\Bamboozled\Bamboozled\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Clay\Team7\Team7\Bamboozled\BamboozledContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Clay\Team7\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-01-30T16:37:52.8125264-06:00</Value>
+        <Value>2012-02-13T23:33:59.076-06:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

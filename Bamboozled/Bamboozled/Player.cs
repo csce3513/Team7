@@ -39,8 +39,8 @@ namespace Bamboozled
         public void Update(GameTime gameTime, KeyboardState keyboardState)
         {
             this.keyboardState = keyboardState;
-            this.Movement();
-            this.Velocity();
+            this.Movement(); // <---- Why are these functions seperate if the only time they're used, they're called right next to eachother?
+            this.Velocity(); // <----
 
             position += velocity;
 
@@ -67,56 +67,38 @@ namespace Bamboozled
                 currentFrame.X = 1;
             }
         }
+
         private void Movement()
         {
             isMoving = false;
-            
-            if (keyboardState.IsKeyDown(Keys.Left))
-            {
-                isMoving = true;
-                directionOfMovement = SpriteEffects.FlipHorizontally;
-            }
-            if (keyboardState.IsKeyDown(Keys.Right))
-            {
-                isMoving = true;
-                directionOfMovement = SpriteEffects.None;
-            }
 
-            // If player uses WASD keys to move the sprite
-            if (keyboardState.IsKeyDown(Keys.A))
+            if (keyboardState.IsKeyDown(Keys.Left) || keyboardState.IsKeyDown(Keys.A))
             {
                 isMoving = true;
                 directionOfMovement = SpriteEffects.FlipHorizontally;
             }
-            if (keyboardState.IsKeyDown(Keys.D))
+            if (keyboardState.IsKeyDown(Keys.Right) || keyboardState.IsKeyDown(Keys.D))
             {
                 isMoving = true;
                 directionOfMovement = SpriteEffects.None;
             }
         }
+
         private void Velocity()
         {
             Vector2 inputDirection = Vector2.Zero;
-            if (keyboardState.IsKeyDown(Keys.Left))
+            if (keyboardState.IsKeyDown(Keys.Left)||keyboardState.IsKeyDown(Keys.A))
             {
                 inputDirection.X -= 1;
             }
-            if (keyboardState.IsKeyDown(Keys.Right))
-            {
-                inputDirection.X += 1;
-            }
-
-            // If player uses WASD keys to move the sprite
-            if (keyboardState.IsKeyDown(Keys.A))
-            {
-                inputDirection.X -= 1;
-            }
-            if (keyboardState.IsKeyDown(Keys.D))
+            if (keyboardState.IsKeyDown(Keys.Right)||keyboardState.IsKeyDown(Keys.D))
             {
                 inputDirection.X += 1;
             }
             velocity = speed * inputDirection;
         }
+
+
         public void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Draw

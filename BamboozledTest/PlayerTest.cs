@@ -10,9 +10,12 @@ namespace BamboozledTest
     [TestClass]
     public class PlayerTest
     {
-
         [TestMethod]
-
+        public void VelocityTest()
+        {
+            //Player a;
+            //Assert.IsNotNull(a);
+        }
     }
 
 }

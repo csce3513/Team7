@@ -1,0 +1,39 @@
+C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
+C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
+C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
+C:\Users\Clay\Team7\Team7\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Team7\Team7\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
+C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
+C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
+C:\Users\Clay\Team7\Team7\BamboozledTest\obj\Debug\BamboozledTest.pdb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
+C:\Users\Clay\Github\Team7\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Github\Team7\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Clay\Github\Team7\BamboozledTest\obj\Debug\BamboozledTest.pdb
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\BamboozledTest.pdb

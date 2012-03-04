@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ed5fe717-cb47-40a0-a19d-16c4fb0d7ebf" name="Philip@PHILIP-PC 2012-02-21 18:34:45" runUser="Philip-PC\Philip" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4f2c2da6-35aa-4cf6-bcf3-6e412df89a58">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Philip_PHILIP-PC 2012-02-21 18_34_45">
+      <DeploymentItem filename="C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Bamboozled.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-21T18:34:45.1990648-06:00" queuing="2012-02-21T18:34:45.2470676-06:00" start="2012-02-21T18:34:45.2620685-06:00" finish="2012-02-21T18:34:48.6282610-06:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="7" executed="7" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="4" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="PHILIP-PC" outcome="Warning" timestamp="2012-02-21T18:34:45.2470676-06:00">
+        <Text>Deployment is currently disabled. The deployment item 'Bamboozled.exe' on test 'BamboozledTest.PlayerTest.PlayerConstructorTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="PlayerConstructorTest" storage="c:\users\philip\documents\visual studio 2010\projects\bamboozled\bamboozledtest\bin\debug\bamboozledtest.dll" id="be9afbd6-4cf0-35aa-db2f-e9c0c258fb09">
+      <DeploymentItems>
+        <DeploymentItem filename="Bamboozled.exe" />
+      </DeploymentItems>
+      <Execution id="5096ae73-6e67-40dd-b165-2c741f07b2e6" />
+      <TestMethod codeBase="C:/Users/Philip/documents/visual studio 2010/Projects/Bamboozled/BamboozledTest/bin/Debug/BamboozledTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BamboozledTest.PlayerTest, BamboozledTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PlayerConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GameplayConstructorTest" storage="c:\users\philip\documents\visual studio 2010\projects\bamboozled\bamboozledtest\bin\debug\bamboozledtest.dll" id="cada89c1-7275-7fd3-acbb-d8d35532583a">
+      <Execution id="bcee78b8-1548-485b-89f7-c4a785af51b0" />
+      <TestMethod codeBase="C:/Users/Philip/documents/visual studio 2010/Projects/Bamboozled/BamboozledTest/bin/Debug/BamboozledTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BamboozledTest.GameplayTest, BamboozledTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GameplayConstructorTest" />
+    </UnitTest>
+    <UnitTest name="getKeyboardInputTest" storage="c:\users\philip\documents\visual studio 2010\projects\bamboozled\bamboozledtest\bin\debug\bamboozledtest.dll" id="75e2e38d-91a1-65dd-7409-15acf4dce007">
+      <Execution id="1d54134b-0e5e-4de6-9349-a4d657be670a" />
+      <TestMethod codeBase="C:/Users/Philip/documents/visual studio 2010/Projects/Bamboozled/BamboozledTest/bin/Debug/BamboozledTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BamboozledTest.BamboozledTest, BamboozledTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getKeyboardInputTest" />
+    </UnitTest>
+    <UnitTest name="UpdateTest" storage="c:\users\philip\documents\visual studio 2010\projects\bamboozled\bamboozledtest\bin\debug\bamboozledtest.dll" id="bf54fb2b-6ada-7178-dc4b-4731bf1e78c4">
+      <Execution id="652a6fb2-e6b5-46b1-98d1-dd33acdfcc01" />
+      <TestMethod codeBase="C:/Users/Philip/documents/visual studio 2010/Projects/Bamboozled/BamboozledTest/bin/Debug/BamboozledTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BamboozledTest.GameplayTest, BamboozledTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UpdateTest" />
+    </UnitTest>
+    <UnitTest name="InitializeTest" storage="c:\users\philip\documents\visual studio 2010\projects\bamboozled\bamboozledtest\bin\debug\bamboozledtest.dll" id="faecfc7b-fb7e-6599-d3eb-66edad66be60">
+      <Execution id="2740e94f-265b-45c0-a8d7-db834fa332c9" />
+      <TestMethod codeBase="C:/Users/Philip/documents/visual studio 2010/Projects/Bamboozled/BamboozledTest/bin/Debug/BamboozledTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BamboozledTest.GameplayTest, BamboozledTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InitializeTest" />
+    </UnitTest>
+    <UnitTest name="MainTest" storage="c:\users\philip\documents\visual studio 2010\projects\bamboozled\bamboozledtest\bin\debug\bamboozledtest.dll" id="a671e152-7f34-8990-9c96-43b7fc04d9c5">
+      <DeploymentItems>
+        <DeploymentItem filename="Bamboozled.exe" />
+      </DeploymentItems>
+      <Execution id="27a5b17b-24b8-4a3e-b70f-dd8c41fe7633" />
+      <TestMethod codeBase="C:/Users/Philip/documents/visual studio 2010/Projects/Bamboozled/BamboozledTest/bin/Debug/BamboozledTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BamboozledTest.ProgramTest, BamboozledTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MainTest" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\philip\documents\visual studio 2010\projects\bamboozled\bamboozledtest\bin\debug\bamboozledtest.dll" id="0e9ce485-1164-c1e9-2c49-622d0ffc2139">
+      <Execution id="2db9badf-0e31-4267-a5cf-6e4f71267f30" />
+      <TestMethod codeBase="C:/Users/Philip/documents/visual studio 2010/Projects/Bamboozled/BamboozledTest/bin/Debug/BamboozledTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BamboozledTest.PlayerTest, BamboozledTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0e9ce485-1164-c1e9-2c49-622d0ffc2139" executionId="2db9badf-0e31-4267-a5cf-6e4f71267f30" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="be9afbd6-4cf0-35aa-db2f-e9c0c258fb09" executionId="5096ae73-6e67-40dd-b165-2c741f07b2e6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="75e2e38d-91a1-65dd-7409-15acf4dce007" executionId="1d54134b-0e5e-4de6-9349-a4d657be670a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cada89c1-7275-7fd3-acbb-d8d35532583a" executionId="bcee78b8-1548-485b-89f7-c4a785af51b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="faecfc7b-fb7e-6599-d3eb-66edad66be60" executionId="2740e94f-265b-45c0-a8d7-db834fa332c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bf54fb2b-6ada-7178-dc4b-4731bf1e78c4" executionId="652a6fb2-e6b5-46b1-98d1-dd33acdfcc01" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a671e152-7f34-8990-9c96-43b7fc04d9c5" executionId="27a5b17b-24b8-4a3e-b70f-dd8c41fe7633" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2db9badf-0e31-4267-a5cf-6e4f71267f30" testId="0e9ce485-1164-c1e9-2c49-622d0ffc2139" testName="TestMethod1" computerName="PHILIP-PC" duration="00:00:00.0101034" startTime="2012-02-21T18:34:45.3500735-06:00" endTime="2012-02-21T18:34:45.6280894-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2db9badf-0e31-4267-a5cf-6e4f71267f30">
+    </UnitTestResult>
+    <UnitTestResult executionId="5096ae73-6e67-40dd-b165-2c741f07b2e6" testId="be9afbd6-4cf0-35aa-db2f-e9c0c258fb09" testName="PlayerConstructorTest" computerName="PHILIP-PC" duration="00:00:00.0246897" startTime="2012-02-21T18:34:45.6320896-06:00" endTime="2012-02-21T18:34:45.6930931-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5096ae73-6e67-40dd-b165-2c741f07b2e6">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at BamboozledTest.PlayerTest.PlayerConstructorTest() in C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\PlayerTest.cs:line 26
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1d54134b-0e5e-4de6-9349-a4d657be670a" testId="75e2e38d-91a1-65dd-7409-15acf4dce007" testName="getKeyboardInputTest" computerName="PHILIP-PC" duration="00:00:00.0732166" startTime="2012-02-21T18:34:45.7140943-06:00" endTime="2012-02-21T18:34:45.8241006-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1d54134b-0e5e-4de6-9349-a4d657be670a">
+    </UnitTestResult>
+    <UnitTestResult executionId="bcee78b8-1548-485b-89f7-c4a785af51b0" testId="cada89c1-7275-7fd3-acbb-d8d35532583a" testName="GameplayConstructorTest" computerName="PHILIP-PC" duration="00:00:00.0008682" startTime="2012-02-21T18:34:45.8351012-06:00" endTime="2012-02-21T18:34:45.8381014-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bcee78b8-1548-485b-89f7-c4a785af51b0">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at BamboozledTest.GameplayTest.GameplayConstructorTest() in C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\GameplayTest.cs:line 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2740e94f-265b-45c0-a8d7-db834fa332c9" testId="faecfc7b-fb7e-6599-d3eb-66edad66be60" testName="InitializeTest" computerName="PHILIP-PC" duration="00:00:00.0101352" startTime="2012-02-21T18:34:45.8411016-06:00" endTime="2012-02-21T18:34:45.8601027-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2740e94f-265b-45c0-a8d7-db834fa332c9">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method BamboozledTest.GameplayTest.InitializeTest threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at Microsoft.Xna.Framework.DrawableGameComponent.Initialize()
+   at Bamboozled.Gameplay.Initialize() in C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\Bamboozled\Bamboozled\Gameplay.cs:line 34
+   at BamboozledTest.GameplayTest.InitializeTest() in C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\GameplayTest.cs:line 87
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="652a6fb2-e6b5-46b1-98d1-dd33acdfcc01" testId="bf54fb2b-6ada-7178-dc4b-4731bf1e78c4" testName="UpdateTest" computerName="PHILIP-PC" duration="00:00:00.0011971" startTime="2012-02-21T18:34:45.8641029-06:00" endTime="2012-02-21T18:34:45.8761036-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="652a6fb2-e6b5-46b1-98d1-dd33acdfcc01">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at BamboozledTest.GameplayTest.UpdateTest() in C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\GameplayTest.cs:line 101
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="27a5b17b-24b8-4a3e-b70f-dd8c41fe7633" testId="a671e152-7f34-8990-9c96-43b7fc04d9c5" testName="MainTest" computerName="PHILIP-PC" duration="00:00:02.7095395" startTime="2012-02-21T18:34:45.8801038-06:00" endTime="2012-02-21T18:34:48.6002594-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="27a5b17b-24b8-4a3e-b70f-dd8c41fe7633">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at BamboozledTest.ProgramTest.MainTest() in C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\ProgramTest.cs:line 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

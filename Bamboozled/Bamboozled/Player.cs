@@ -102,6 +102,7 @@ namespace Bamboozled
                     // 2.) He's on top of either the ground or a platform
                     // 3.) 
                     inputDirection.Y = -1;
+
                 }
             }
 

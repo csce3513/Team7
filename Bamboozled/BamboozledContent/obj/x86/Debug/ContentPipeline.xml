@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\temp_char.xnb</Output>
+      <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\temp_char.xnb</Output>
       <Time>2012-02-27T20:01:22-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -16,10 +16,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\BamboozledContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\Bamboozled\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\BamboozledContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\Bamboozled\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Clay\Github\Team7\Bamboozled\BamboozledContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Clay\Github\Team7\Bamboozled\BamboozledContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

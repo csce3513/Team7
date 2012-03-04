@@ -1,2 +1,0 @@
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Clay\Team7\Team7\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -37,8 +37,6 @@ namespace Bamboozled
         {
             spriteBatch = new SpriteBatch(Game.GraphicsDevice);
 
-            
-
             player = new Player(Game.Content, new Vector2(0, Game.Window.ClientBounds.Height - 109)); // This needs to happen in LevelManager now
             LevelManager.Initialize(Game.Content,player); 
             base.Initialize();

@@ -26,7 +26,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking.xnb</Output>
-      <Time>2012-03-04T17:49:18.824-06:00</Time>
+      <Time>2012-03-04T19:49:19.294-06:00</Time>
     </Item>
     <Item>
       <Source>Images\game_background.png</Source>
@@ -36,6 +36,24 @@
       <Options>None</Options>
       <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\game_background.xnb</Output>
       <Time>2012-03-04T17:29:07.61-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\panda_walking_jumping.png</Source>
+      <Name>Images\panda_walking_jumping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking_jumping.xnb</Output>
+      <Time>2012-03-04T19:19:12.278-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\forest04.png</Source>
+      <Name>Images\forest04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\forest04.xnb</Output>
+      <Time>2012-03-04T19:57:42.049-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

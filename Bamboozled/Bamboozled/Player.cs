@@ -53,9 +53,9 @@ namespace Bamboozled
         public Player(ContentManager content, Vector2 position)
         {
             textureImage = content.Load<Texture2D>(@"Images/panda_walking");
-            frameSize = new Point(88, 109);
+            frameSize = new Point(88, 135);
             currentFrame = new Point(0, 0);
-            sheetSize = new Point(4, 1);
+            sheetSize = new Point(4, 0);
             this.position = position;
             speed = new Vector2(5, 5);
             acceleration = new Vector2(0, 0);
@@ -68,8 +68,6 @@ namespace Bamboozled
             this.Movement(); // <---- Why are these functions seperate if the only time they're used, they're called right next to eachother?
             //this.Velocity(); // <----
 
-           
-            
             velocity += acceleration;
             if (position.Y + velocity.Y <= 576 - 109)
             {
@@ -83,7 +81,7 @@ namespace Bamboozled
 
             if (isJumping)
             {
-                // Loop through jump animation
+                // Loop through jumping animation
             }
             if (isMoving)
             {
@@ -113,6 +111,7 @@ namespace Bamboozled
         private void Movement()
         {
             isMoving = false;
+            //isJumping = false;
             Vector2 inputDirection = Vector2.Zero;
 
             if (!keysOppositeDirection(keyboardState))   // Ensures no movement or animation if opposing keys occur
@@ -134,6 +133,7 @@ namespace Bamboozled
                     if (keysUpDirection(keyboardState))     // If up key is pressed
                     {
                         jump();
+                   
                         return;
                     }
                 }

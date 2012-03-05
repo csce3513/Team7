@@ -40,3 +40,5 @@ C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\BamboozledTes
 C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_sprite_sheet.xnb
 C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
 C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\forest04.xnb

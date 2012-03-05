@@ -26,3 +26,6 @@ C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\Bamboozled\obj\x86\Debug\Re
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\Bamboozled\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\Bamboozled\obj\x86\Debug\Bamboozled.exe
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\Bamboozled\obj\x86\Debug\Bamboozled.pdb
+C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_sprite_sheet.xnb
+C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking.xnb
+C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\game_background.xnb

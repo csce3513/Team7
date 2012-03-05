@@ -28,16 +28,26 @@ namespace Bamboozled
         private bool isJumping;
         private float maxJump;
 
+        public Vector2 getPos()
+        {
+            return position;
+        }
+
+        public void setPos(Vector2 tempPos)
+        {
+            position = tempPos;
+        }
+
+
         public Player(ContentManager content, Vector2 position)
         {
-            textureImage = content.Load<Texture2D>(@"Images/temp_char");
-            frameSize = new Point(44, 88);
+            textureImage = content.Load<Texture2D>(@"Images/panda_walking");
+            frameSize = new Point(88, 109);
             currentFrame = new Point(0, 0);
-            sheetSize = new Point(7, 1);
+            sheetSize = new Point(4, 1);
             this.position = position;
             speed = new Vector2(5, 5);
         }
-
 
         public void Update(GameTime gameTime, KeyboardState keyboardState)
         {
@@ -126,6 +136,7 @@ namespace Bamboozled
                 Color.White, 0, Vector2.Zero,
                 1f, directionOfMovement, 1);
         }
+
 
         #region KeyHandlers
         // Returns true if any two keys are being held that, false otherwise

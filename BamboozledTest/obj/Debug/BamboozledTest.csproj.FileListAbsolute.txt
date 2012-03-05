@@ -37,3 +37,6 @@ C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled_Ac
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\BamboozledTest.dll
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\BamboozledTest.pdb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_sprite_sheet.xnb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\game_background.xnb

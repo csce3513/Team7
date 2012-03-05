@@ -10,6 +10,33 @@
       <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\temp_char.xnb</Output>
       <Time>2012-02-27T20:01:22-06:00</Time>
     </Item>
+    <Item>
+      <Source>Images\panda_sprite_sheet.png</Source>
+      <Name>Images\panda_sprite_sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_sprite_sheet.xnb</Output>
+      <Time>2012-03-04T17:06:04.292-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\panda_walking.png</Source>
+      <Name>Images\panda_walking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking.xnb</Output>
+      <Time>2012-03-04T17:49:18.824-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\game_background.png</Source>
+      <Name>Images\game_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\game_background.xnb</Output>
+      <Time>2012-03-04T17:29:07.61-06:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

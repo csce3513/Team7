@@ -17,6 +17,7 @@ namespace Bamboozled
         private Point sheetSize;
         protected Vector2 position;
         protected Vector2 speed;
+        protected Vector2 acceleration;
         protected Vector2 velocity;
         protected int timeSinceLastFrame;
         protected int millisecondsPerFrame = 40;
@@ -38,6 +39,16 @@ namespace Bamboozled
             position = tempPos;
         }
 
+        public Vector2 getAccel()
+        {
+            return acceleration;
+        }
+
+        public void setAccel(Vector2 tempAccel)
+        {
+            acceleration = tempAccel;
+        }
+
 
         public Player(ContentManager content, Vector2 position)
         {
@@ -47,6 +58,8 @@ namespace Bamboozled
             sheetSize = new Point(4, 1);
             this.position = position;
             speed = new Vector2(5, 5);
+            acceleration = new Vector2(0, 0);
+            maxJump = 15;
         }
 
         public void Update(GameTime gameTime, KeyboardState keyboardState)
@@ -55,7 +68,18 @@ namespace Bamboozled
             this.Movement(); // <---- Why are these functions seperate if the only time they're used, they're called right next to eachother?
             //this.Velocity(); // <----
 
-            position += velocity;
+           
+            
+            velocity += acceleration;
+            if (position.Y + velocity.Y <= 576 - 109)
+            {
+                position += velocity;
+            }
+            else
+            {
+                position.Y = 576 - 109;
+            }
+
 
             if (isJumping)
             {
@@ -105,25 +129,27 @@ namespace Bamboozled
                     directionOfMovement = SpriteEffects.None;
                     inputDirection.X += 1;
                 }
-                if (keysUpDirection(keyboardState))     // Jump (WIP)
+                if (position.Y >= 576 - 109) // If player isn't on platform(WIP) or ground
                 {
-                    // Player should only jump if 
-                    // 1.) Its a new key press
-                    // 2.) He's on top of either the ground or a platform
-                    // 3.) 
-                    inputDirection.Y = -1;
-
+                    if (keysUpDirection(keyboardState))     // If up key is pressed
+                    {
+                        jump();
+                        return;
+                    }
                 }
             }
 
             velocity = speed * inputDirection;    
         }
 
-        //private void jump()
-        //{
-        //    isJumping = true;
-        //    speed.Y = -500;
-        //}
+        private void jump()
+        {
+            if (position.Y >= maxJump)
+            {
+                isJumping = true;
+                acceleration.Y += -20;
+            }
+        }
 
         public void Draw(SpriteBatch spriteBatch)
         {

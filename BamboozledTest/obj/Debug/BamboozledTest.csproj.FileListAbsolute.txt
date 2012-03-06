@@ -17,7 +17,6 @@ C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled.pdb
 C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
 C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
 C:\Users\Clay\Team7\Team7\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
 C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\BamboozledTest.dll
 C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\BamboozledTest.pdb
 C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Bamboozled.exe
@@ -37,8 +36,8 @@ C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled_Ac
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\BamboozledTest.dll
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_sprite_sheet.xnb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
 C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
+C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
 C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
 C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\forest04.xnb

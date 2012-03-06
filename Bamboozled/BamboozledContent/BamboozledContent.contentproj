@@ -49,13 +49,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Images\panda_sprite_sheet.png">
-      <Name>panda_sprite_sheet</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Images\game_background.png">
       <Name>game_background</Name>
       <Importer>TextureImporter</Importer>

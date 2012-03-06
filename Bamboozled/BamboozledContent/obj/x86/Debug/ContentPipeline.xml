@@ -11,13 +11,13 @@
       <Time>2012-02-27T20:01:22-06:00</Time>
     </Item>
     <Item>
-      <Source>Images\panda_sprite_sheet.png</Source>
-      <Name>Images\panda_sprite_sheet</Name>
+      <Source>Images\game_background.png</Source>
+      <Name>Images\game_background</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_sprite_sheet.xnb</Output>
-      <Time>2012-03-04T17:06:04.292-06:00</Time>
+      <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\game_background.xnb</Output>
+      <Time>2012-03-05T20:29:25.53-06:00</Time>
     </Item>
     <Item>
       <Source>Images\panda_walking.png</Source>
@@ -26,16 +26,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking.xnb</Output>
-      <Time>2012-03-04T19:49:19.294-06:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\game_background.png</Source>
-      <Name>Images\game_background</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\game_background.xnb</Output>
-      <Time>2012-03-04T17:29:07.61-06:00</Time>
+      <Time>2012-03-05T20:29:25.536-06:00</Time>
     </Item>
     <Item>
       <Source>Images\panda_walking_jumping.png</Source>
@@ -44,7 +35,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking_jumping.xnb</Output>
-      <Time>2012-03-04T19:19:12.278-06:00</Time>
+      <Time>2012-03-05T20:29:25.537-06:00</Time>
     </Item>
     <Item>
       <Source>Images\forest04.png</Source>
@@ -53,12 +44,12 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Clay\Github\Team7\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\forest04.xnb</Output>
-      <Time>2012-03-04T19:57:42.049-06:00</Time>
+      <Time>2012-03-05T20:29:25.528-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
-      <TargetProfile>HiDef</TargetProfile>
+      <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
       <RootDirectory>C:\Users\Clay\Github\Team7\Bamboozled\BamboozledContent\</RootDirectory>

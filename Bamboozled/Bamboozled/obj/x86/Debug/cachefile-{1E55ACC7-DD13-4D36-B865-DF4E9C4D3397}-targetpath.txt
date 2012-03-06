@@ -1,6 +1,5 @@
 Content\Images\temp_char.xnb
-Content\Images\panda_sprite_sheet.xnb
-Content\Images\panda_walking.xnb
 Content\Images\game_background.xnb
+Content\Images\panda_walking.xnb
 Content\Images\panda_walking_jumping.xnb
 Content\Images\forest04.xnb

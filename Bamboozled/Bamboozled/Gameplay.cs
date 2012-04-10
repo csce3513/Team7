@@ -19,6 +19,7 @@ namespace Bamboozled
     {
         protected KeyboardState keyboardState;
         private Player player;
+        //private LevelManager level;
 
         SpriteBatch spriteBatch;
 
@@ -35,9 +36,9 @@ namespace Bamboozled
         public override void Initialize()
         {
             spriteBatch = new SpriteBatch(Game.GraphicsDevice);
-            
-            player = new Player(Game.Content, new Vector2(0, Game.Window.ClientBounds.Height - 88));
 
+            player = new Player(Game.Content, new Vector2(0, Game.Window.ClientBounds.Height - 109)); // This needs to happen in LevelManager now
+            LevelManager.Initialize(Game.Content,player); 
             base.Initialize();
         }
 
@@ -49,7 +50,8 @@ namespace Bamboozled
         {
             keyboardState = Keyboard.GetState();
 
-            player.Update(gameTime, keyboardState);
+            //player.Update(gameTime, keyboardState); // This needs to happen in LevelManager now
+            LevelManager.Update(gameTime, keyboardState);
 
             base.Update(gameTime);
         }
@@ -57,7 +59,9 @@ namespace Bamboozled
         {
             spriteBatch.Begin(SpriteSortMode.FrontToBack, BlendState.AlphaBlend);
             
-            player.Draw(spriteBatch);
+            //player.Draw(spriteBatch);
+
+            LevelManager.Draw(spriteBatch);
 
             spriteBatch.End();
         }

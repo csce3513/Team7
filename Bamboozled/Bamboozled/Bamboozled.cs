@@ -8,6 +8,8 @@ using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
+using Bamboozled.ScreenManagement;
+using Bamboozled.Screens;
 
 namespace Bamboozled
 {
@@ -15,8 +17,13 @@ namespace Bamboozled
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-
+        ScreenManager screenManager;
         Gameplay gameplay;
+
+        static readonly string[] preloadAssets =
+        {
+            "gradient",
+        };
 
         public Bamboozled()
         {
@@ -25,19 +32,33 @@ namespace Bamboozled
 
             graphics.PreferredBackBufferHeight = 576;
             graphics.PreferredBackBufferWidth = 1024;
+
+            screenManager = new ScreenManager(this);
+
+            Components.Add(screenManager);
+
+            // Activate the first screen.
+            screenManager.AddScreen(new BackgroundScreen(), null);
+            screenManager.AddScreen(new MainMenuScreen(), null);
         }
 
         protected override void Initialize()
         {
             gameplay = new Gameplay(this);
-            Components.Add(gameplay);
-
+            //Components.Add(gameplay);
+            //gameplay.Enabled = false;
+            //gameplay.Visible = false;
             base.Initialize();
+
         }
 
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
+            foreach (string asset in preloadAssets)
+            {
+                Content.Load<object>(asset);
+            }
             spriteBatch = new SpriteBatch(GraphicsDevice);
         }
 
@@ -57,8 +78,7 @@ namespace Bamboozled
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
-
+            //GraphicsDevice.Clear(Color.CornflowerBlue);
             base.Draw(gameTime);
         }
     }

@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tile Engine", "Tile Engine\Tile Engine.csproj", "{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}"
+EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = Bamboozled.vsmdi
@@ -56,6 +58,16 @@ Global
 		{4BC614F2-8640-4ACC-B9E4-50957861F238}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{4BC614F2-8640-4ACC-B9E4-50957861F238}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{4BC614F2-8640-4ACC-B9E4-50957861F238}.Release|x86.ActiveCfg = Release|Any CPU
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Debug|x86.ActiveCfg = Debug|x86
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Debug|x86.Build.0 = Debug|x86
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Release|Any CPU.ActiveCfg = Release|x86
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Release|x86.ActiveCfg = Release|x86
+		{C7F1F81E-D2E3-48F9-91CD-4B97267A7F24}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

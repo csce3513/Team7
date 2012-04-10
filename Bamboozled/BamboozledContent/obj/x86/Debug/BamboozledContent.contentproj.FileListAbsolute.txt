@@ -2,3 +2,9 @@ C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\Bamboozled\Bamb
 C:\Users\Clay\Team7\Team7\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Clay\Github\Team7\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Clay\Desktop\Team7ProjectAsOnGit\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Desktop\Merge with Gaetane\Team7\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\BamboozledContent\obj\x86\Debug\ResolveAssemblyReference.cache

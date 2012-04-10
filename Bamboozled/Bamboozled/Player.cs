@@ -12,32 +12,56 @@ namespace Bamboozled
     public class Player
     {
         private Texture2D textureImage;
-        private Point frameSize;
+        public Point frameSize { get; set; }
         private Point currentFrame;
         private Point sheetSize;
-        protected Vector2 position;
+        public Vector2 position;
         protected Vector2 speed;
-        protected Vector2 velocity;
+        protected Vector2 acceleration;
+        public Vector2 velocity { get; set; }
         protected int timeSinceLastFrame;
         protected int millisecondsPerFrame = 40;
-
         private KeyboardState keyboardState;
+        public bool isOnPlatform { get; set; } // Quick hack to get jumping on platforms to work
 
         protected SpriteEffects directionOfMovement = SpriteEffects.None;
-        private bool isMoving;
-        private bool isJumping;
+        public bool isMoving; //Temporary fix. need gettter and setter
+        public bool isJumping { get; set; }
         private float maxJump;
+
+        public Vector2 getPos()
+        {
+            return position;
+        }
+
+        public void setPos(Vector2 temppos)
+        {
+            position = temppos;
+        }
+
+        public Vector2 getAccel()
+        {
+            return acceleration;
+        }
+
+        public void setAccel(Vector2 tempAccel)
+        {
+            acceleration = tempAccel;
+        }
+
 
         public Player(ContentManager content, Vector2 position)
         {
-            textureImage = content.Load<Texture2D>(@"Images/temp_char");
-            frameSize = new Point(44, 88);
+            textureImage = content.Load<Texture2D>(@"Images/panda_walking");
+            frameSize = new Point(88, 96);
             currentFrame = new Point(0, 0);
-            sheetSize = new Point(7, 1);
+            sheetSize = new Point(4, 0);
             this.position = position;
-            speed = new Vector2(5, 5);
+            speed = new Vector2(8, 8);
+            acceleration = new Vector2(0, 0);
+            maxJump = 15;
+            
         }
-
 
         public void Update(GameTime gameTime, KeyboardState keyboardState)
         {
@@ -45,11 +69,28 @@ namespace Bamboozled
             this.Movement(); // <---- Why are these functions seperate if the only time they're used, they're called right next to eachother?
             //this.Velocity(); // <----
 
-            position += velocity;
+            velocity += acceleration;
+            if (position.Y + velocity.Y <= 576 - 109)
+            {
+                position += velocity;
+                if (position.X > 1024 / 2)
+                {
+                    position.X = 1024 / 2;
+                }
+                else if (position.X < 0)
+                {
+                    position.X = 0;
+                }
+            }
+            else
+            {
+                position.Y = 576 - 109;
+            }
+
 
             if (isJumping)
             {
-                // Loop through jump animation
+                // Loop through jumping animation
             }
             if (isMoving)
             {
@@ -73,12 +114,27 @@ namespace Bamboozled
             {
                 currentFrame.X = 1;
             }
+
+            Vector2 tempPos = this.getPos();
+            Vector2 tempAccel = this.getAccel();
+            if (tempPos.Y < 576 - 109) // Temporary way to detect bottom of screen, needs to be replaced with more modular code
+            {
+                if(tempAccel.Y + 1 < 20)
+                    tempAccel.Y += 1;
+                this.setAccel(tempAccel);
+            }
+            else
+            {
+                this.setAccel(Vector2.Zero);
+            }
+
         }
 
         // Checks for key presses, moves player accordingly.
         private void Movement()
         {
             isMoving = false;
+            isJumping = false;
             Vector2 inputDirection = Vector2.Zero;
 
             if (!keysOppositeDirection(keyboardState))   // Ensures no movement or animation if opposing keys occur
@@ -95,25 +151,28 @@ namespace Bamboozled
                     directionOfMovement = SpriteEffects.None;
                     inputDirection.X += 1;
                 }
-                if (keysUpDirection(keyboardState))     // Jump (WIP)
+                if (position.Y >= 576 - 109 || isOnPlatform==true) // If player isn't on platform(WIP) or ground
                 {
-                    // Player should only jump if 
-                    // 1.) Its a new key press
-                    // 2.) He's on top of either the ground or a platform
-                    // 3.) 
-                    inputDirection.Y = -1;
-
+                    if (keysUpDirection(keyboardState))     // If up key is pressed
+                    {
+                        jump();
+                        isOnPlatform = false;
+                        return;
+                    }
                 }
             }
 
             velocity = speed * inputDirection;    
         }
 
-        //private void jump()
-        //{
-        //    isJumping = true;
-        //    speed.Y = -500;
-        //}
+        private void jump()
+        {
+            if (position.Y >= maxJump)
+            {
+                isJumping = true;
+                acceleration.Y += -20;
+            }
+        }
 
         public void Draw(SpriteBatch spriteBatch)
         {
@@ -126,6 +185,18 @@ namespace Bamboozled
                 Color.White, 0, Vector2.Zero,
                 1f, directionOfMovement, 1);
         }
+        public Rectangle collisionRect
+        {
+            get
+            {
+                return new Rectangle(
+               (int)(position.X),
+                (int)(position.Y),
+                (int)(frameSize.X),
+                (int)(frameSize.Y));
+            }
+        }
+
 
         #region KeyHandlers
         // Returns true if any two keys are being held that, false otherwise

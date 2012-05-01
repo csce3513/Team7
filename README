@@ -1,11 +1,10 @@
-
-
-		Bamboozled 1.0 
-Welcome to Team-7's GitHub Page. 
+				        	Bamboozled 1.0 
+					Welcome to Team-7's GitHub Page. 
 Our game is a side-scroller. It's about a panda trying to beat some other enemies. 
 Our game is written in C#. We used Microsoft Visual Studio 2010 as our IDE and XNA as our framework. 
+
 Game Playing Instructions:
-Once you start the game, press new game. 
+Once you start the game, from menu, press new game. 
 Game will start. You can use WASD to move up, left, down or right. 
 You can also use the arrow keys to navigate through the game. 
 You kill your enemies by jumping on them, just like a mario game. 
@@ -18,3 +17,9 @@ Game will be more fun in this mode. (Make sure to turn up the volume).
 Anytime during the game, you can hit esc button to pause the game or quit the game. 
 Once you quit it, you won't be able to resume it, so make sure you know what you are doing. 
 Game will come to an end once you kill all the pandas and move up in the level.
+
+Team Members:
+Zaf Ceto zceto@uark.edu
+Clay Mullis cmullis@uark.edu
+Philip Gilley pgilley@uark.edu
+Gaetane Julmiste gjulmist@uark.edu 

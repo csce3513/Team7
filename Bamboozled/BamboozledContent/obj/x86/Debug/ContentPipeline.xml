@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\temp_char.xnb</Output>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\temp_char.xnb</Output>
       <Time>2012-02-27T20:01:22-06:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\game_background.xnb</Output>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\game_background.xnb</Output>
       <Time>2012-03-05T20:29:25-06:00</Time>
     </Item>
     <Item>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking.xnb</Output>
-      <Time>2012-03-05T20:29:25-06:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking.xnb</Output>
+      <Time>2012-04-18T21:08:50-05:00</Time>
     </Item>
     <Item>
       <Source>Images\panda_walking_jumping.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking_jumping.xnb</Output>
-      <Time>2012-03-05T20:29:25-06:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_walking_jumping.xnb</Output>
+      <Time>2012-04-18T21:08:45-05:00</Time>
     </Item>
     <Item>
       <Source>Images\forest04.png</Source>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\forest04.xnb</Output>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\forest04.xnb</Output>
       <Time>2012-03-05T20:29:25-06:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\background.xnb</Output>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\background.xnb</Output>
       <Time>2012-03-05T23:13:20-06:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Textures\blank.xnb</Output>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Textures\blank.xnb</Output>
       <Time>2012-03-05T23:13:38-06:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\gradient.xnb</Output>
       <Time>2012-03-05T23:14:24-06:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\bamboo_block.xnb</Output>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\bamboo_block.xnb</Output>
       <Time>2012-04-05T17:44:33-05:00</Time>
     </Item>
     <Item>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\Pink Forest.xnb</Output>
-      <Time>2012-04-08T23:22:20.363-05:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\Pink Forest.xnb</Output>
+      <Time>2012-04-08T23:22:20-05:00</Time>
     </Item>
     <Item>
       <Source>Images\dirt_left_center.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_left_center.xnb</Output>
-      <Time>2012-04-09T15:16:12.498-05:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_left_center.xnb</Output>
+      <Time>2012-04-09T15:16:12-05:00</Time>
     </Item>
     <Item>
       <Source>Images\dirt_left_edge.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_left_edge.xnb</Output>
-      <Time>2012-04-09T15:16:12.506-05:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_left_edge.xnb</Output>
+      <Time>2012-04-09T15:16:12-05:00</Time>
     </Item>
     <Item>
       <Source>Images\dirt_right_center.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_right_center.xnb</Output>
-      <Time>2012-04-09T15:16:12.511-05:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_right_center.xnb</Output>
+      <Time>2012-04-09T15:16:12-05:00</Time>
     </Item>
     <Item>
       <Source>Images\dirt_right_edge.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_right_edge.xnb</Output>
-      <Time>2012-04-09T15:16:12.516-05:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_right_edge.xnb</Output>
+      <Time>2012-04-09T15:16:12-05:00</Time>
     </Item>
     <Item>
       <Source>Images\dirt_bottom_center.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_bottom_center.xnb</Output>
-      <Time>2012-04-09T15:27:45.523-05:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_bottom_center.xnb</Output>
+      <Time>2012-04-09T15:27:45-05:00</Time>
     </Item>
     <Item>
       <Source>Images\dirt_bottom_left.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_bottom_left.xnb</Output>
-      <Time>2012-04-09T15:27:45.514-05:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_bottom_left.xnb</Output>
+      <Time>2012-04-09T15:27:45-05:00</Time>
     </Item>
     <Item>
       <Source>Images\dirt_bottom_right.png</Source>
@@ -151,8 +151,62 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_bottom_right.xnb</Output>
-      <Time>2012-04-09T15:27:45.517-05:00</Time>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\dirt_bottom_right.xnb</Output>
+      <Time>2012-04-09T15:27:45-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\red_panda_walking.png</Source>
+      <Name>Images\red_panda_walking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\red_panda_walking.xnb</Output>
+      <Time>2012-04-11T16:52:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\skybuster.png</Source>
+      <Name>Images\skybuster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\skybuster.xnb</Output>
+      <Time>2012-04-15T17:20:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\panda_tripping.png</Source>
+      <Name>Images\panda_tripping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\panda_tripping.xnb</Output>
+      <Time>2012-04-19T22:35:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pink_forest_inverted.png</Source>
+      <Name>Images\pink_forest_inverted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\pink_forest_inverted.xnb</Output>
+      <Time>2012-04-20T17:08:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pill.png</Source>
+      <Name>Images\pill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\pill.xnb</Output>
+      <Time>2012-04-20T17:15:03-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\jetpack.png</Source>
+      <Name>Images\jetpack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Images\jetpack.xnb</Output>
+      <Time>2012-04-29T13:13:34-05:00</Time>
     </Item>
     <Item>
       <Source>Fonts\GameFont.spritefont</Source>
@@ -160,7 +214,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Fonts\GameFont.xnb</Output>
       <Time>2012-03-05T23:12:59-06:00</Time>
     </Item>
     <Item>
@@ -169,8 +223,53 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
       <Time>2012-03-05T23:12:59-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\explosion.wav</Source>
+      <Name>Audio\Waves\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Audio\Waves\explosion.xnb</Output>
+      <Time>2012-04-16T05:35:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\jump.wav</Source>
+      <Name>Audio\Waves\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Audio\Waves\jump.xnb</Output>
+      <Time>2012-04-16T05:53:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Kill The Noise (Part I).wav</Source>
+      <Name>Audio\Waves\kill_the_noise</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Audio\Waves\kill_the_noise.xnb</Output>
+      <Time>2012-04-18T23:44:09-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\Kill The Noise Loop.wav</Source>
+      <Name>Audio\Waves\kill_the_noise_loop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Audio\Waves\kill_the_noise_loop.xnb</Output>
+      <Time>2012-04-18T23:52:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\kill the noise(drop).wav</Source>
+      <Name>Audio\Waves\kill_the_noise_drop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\Audio\Waves\kill_the_noise_drop.xnb</Output>
+      <Time>2012-04-18T23:58:49-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -178,39 +277,39 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\BamboozledContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\BamboozledContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\BamboozledContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\BamboozledContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Bamboozled\Bamboozled\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
         <Value>2010-08-23T13:41:18-05:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-02-13T23:33:59.076-06:00</Value>
+        <Value>2012-01-30T16:37:52.8125264-06:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

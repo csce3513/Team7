@@ -19,6 +19,7 @@ namespace Bamboozled
         SpriteBatch spriteBatch;
         ScreenManager screenManager;
         Gameplay gameplay;
+        public static ContentManager global_content;
 
         static readonly string[] preloadAssets =
         {
@@ -29,6 +30,8 @@ namespace Bamboozled
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+
+            global_content = Content;
 
             graphics.PreferredBackBufferHeight = 576;
             graphics.PreferredBackBufferWidth = 1024;

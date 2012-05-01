@@ -15,7 +15,7 @@ namespace Bamboozled
         #region Declarations
         private static ContentManager Content;
         private static Player player;
-        private static int currentLevel;
+        private static int currentLevel;//
         private static Vector2 respawnLocation;
 
         private static Texture2D background;

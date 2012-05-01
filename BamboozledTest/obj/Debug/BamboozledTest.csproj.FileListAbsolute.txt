@@ -1,143 +1,7 @@
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Philip\documents\visual studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Clay\Team7\Team7\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Clay\Team7\Team7\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
-C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Clay\Team7\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Clay\Team7\Team7\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Clay\Github\Team7\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Clay\Github\Team7\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Clay\Github\Team7\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Clay\Desktop\Team7ProjectAsOnGit\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
-C:\Users\Clay\Github\Team7\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\Images\background.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
-C:\Users\Clay\Desktop\Merge with Gaetane\Team7\BamboozledTest\bin\Debug\Content\gradient.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\Images\background.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\gradient.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Clay\Dropbox\Team 7 project\The Second Release!!!\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\background.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\gradient.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\background.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\gradient.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\bamboo_block.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\background.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\gradient.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\bamboo_block.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
@@ -147,17 +11,6 @@ C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\gradient.xnb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\bamboo_block.xnb
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.exe
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled_Accessor.pdb
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\Pink Forest.xnb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_center.xnb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_edge.xnb
@@ -166,6 +19,26 @@ C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_center.xnb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_left.xnb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_right.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\red_panda_walking.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\skybuster.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\explosion.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\jump.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_loop.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_drop.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\background.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\gradient.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\bamboo_block.xnb
 C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\Pink Forest.xnb
 C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_center.xnb
 C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_edge.xnb
@@ -174,3 +47,181 @@ C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTes
 C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_center.xnb
 C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_left.xnb
 C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_right.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\red_panda_walking.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\skybuster.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\explosion.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\jump.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_loop.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_drop.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_tripping.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_tripping.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pink_forest_inverted.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pill.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pink_forest_inverted.xnb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pill.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\background.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\gradient.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\bamboo_block.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\Pink Forest.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_center.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_edge.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_right_center.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_right_edge.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_center.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_left.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_right.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\red_panda_walking.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\skybuster.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_tripping.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pink_forest_inverted.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pill.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\explosion.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\jump.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_loop.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_drop.xnb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Julmiste\Documents\Visual Studio 2010\Projects\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\background.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\gradient.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\bamboo_block.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\Pink Forest.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_center.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_edge.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_right_center.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_right_edge.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_center.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_left.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_right.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\red_panda_walking.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\skybuster.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_tripping.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pink_forest_inverted.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pill.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\jetpack.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\explosion.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\jump.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_loop.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_drop.xnb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
+C:\Users\Zafer\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\jetpack.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\jetpack.xnb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.csprojResolveAssemblyReference.cache
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\background.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\gradient.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\bamboo_block.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\Pink Forest.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_center.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_edge.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_right_center.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_right_edge.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_center.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_left.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_right.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\red_panda_walking.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\skybuster.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_tripping.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pink_forest_inverted.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pill.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\jetpack.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\explosion.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\jump.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_loop.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_drop.xnb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\temp_char.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\game_background.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_walking_jumping.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\forest04.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\background.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Textures\blank.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\gradient.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\bamboo_block.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\Pink Forest.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_center.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_left_edge.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_right_center.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_right_edge.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_center.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_left.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\dirt_bottom_right.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\red_panda_walking.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\skybuster.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\panda_tripping.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pink_forest_inverted.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\pill.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Images\jetpack.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Fonts\menufont.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\explosion.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\jump.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_loop.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Content\Audio\Waves\kill_the_noise_drop.xnb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.dll
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\BamboozledTest.pdb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.exe
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\bin\Debug\Bamboozled.pdb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.dll
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\BamboozledTest\obj\Debug\BamboozledTest.pdb

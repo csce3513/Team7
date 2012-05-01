@@ -15,5 +15,16 @@ Content\Images\dirt_right_edge.xnb
 Content\Images\dirt_bottom_center.xnb
 Content\Images\dirt_bottom_left.xnb
 Content\Images\dirt_bottom_right.xnb
+Content\Images\red_panda_walking.xnb
+Content\Images\skybuster.xnb
+Content\Images\panda_tripping.xnb
+Content\Images\pink_forest_inverted.xnb
+Content\Images\pill.xnb
+Content\Images\jetpack.xnb
 Content\Fonts\GameFont.xnb
 Content\Fonts\menufont.xnb
+Content\Audio\Waves\explosion.xnb
+Content\Audio\Waves\jump.xnb
+Content\Audio\Waves\kill_the_noise.xnb
+Content\Audio\Waves\kill_the_noise_loop.xnb
+Content\Audio\Waves\kill_the_noise_drop.xnb

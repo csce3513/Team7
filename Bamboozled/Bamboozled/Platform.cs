@@ -17,7 +17,7 @@ namespace Bamboozled
     class Platform
     {
         public Rectangle Rect { get; set; }
-        public Texture2D block;
+        public Texture2D block { get; set; }
         public Vector2 location;
 
         public Platform(Vector2 initial_point,Texture2D picture)
@@ -30,7 +30,7 @@ namespace Bamboozled
             get
             {
                 return new Rectangle(
-               (int)(location.X),
+                (int)(location.X),
                 (int)(location.Y),
                 (int)(50),
                 (int)(50));

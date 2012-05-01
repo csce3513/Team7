@@ -36,7 +36,19 @@ C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\
 C:\Users\Philip\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Tile Engine.pdb
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\bin\x86\Debug\Tile Engine.dll
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\bin\x86\Debug\Tile Engine.pdb
-C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Tile Engine.dll
 C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Tile Engine.pdb
+C:\Users\Clay\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Tile Engine.csprojResolveAssemblyReference.cache
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\bin\x86\Debug\Tile Engine.dll
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\bin\x86\Debug\Tile Engine.pdb
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Tile Engine.dll
+C:\Users\Julmiste\Dropbox\Team 7 project\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Tile Engine.pdb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Tile Engine\bin\x86\Debug\Tile Engine.dll
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Tile Engine\bin\x86\Debug\Tile Engine.pdb
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Tile Engine.dll
+C:\Users\Philip\Desktop\carmera mouvement\Bamboozled\Tile Engine\obj\x86\Debug\Tile Engine.pdb

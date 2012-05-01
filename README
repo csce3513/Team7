@@ -1,13 +1,20 @@
-            	Bamboozled 1.0
-      Welcome to Team-7's GitHub Page. 
+            	                 Bamboozled 1.0
+                                 Welcome to Team-7's GitHub Page. 
 
 To download the game:
 Click on Downloads link on this GitHub page. Download the .zip file onto your PC desktop. Open the .zip file 
 and click on setup.exe. Allow the game to be installed onto your computer, then once installed, load the game
 by double clicking on it's icon and game should start.
 
-Our game is a side-scroller. 
-It's about a panda trying to beat some other enemies. 
+To see the source code:
+All of our source code can be found on the main branch. Final folders contain all the source code for the game.
+
+To see the unit testing: 
+Under our wiki page, you can see a page that reads UNIT TESTING. Under that file, you can find all of our unit
+tests that have ever been written for this game.
+
+Our game is a side-scroller. This game is a product of four Software Engineering students at University of Arkansas.  
+The game is about a panda trying to beat some other enemies. 
 Our game is written in C#. We used Microsoft Visual Studio 2010 as our IDE and XNA as our framework. 
 
 Game Playing Instructions:
@@ -31,3 +38,25 @@ Zaf Ceto zceto@uark.edu
 Clay Mullis cmullis@uark.edu
 Philip Gilley pgilley@uark.edu
 Gaetane Julmiste gjulmist@uark.edu 
+
+
+Licensing:
+
+The MIT License (MIT) Copyright (c) 2012
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
+and associated documentation files (the "Software"), to deal in the Software without restriction, 
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", 
+WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
